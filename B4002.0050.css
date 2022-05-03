@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "Brandon Text Regular";
+    src: url('BrandonText-Regular.woff');
+}
+
+body {
+    font-family: "Brandon Text Regular";
+    font-size: 0.625rem;
+    line-height: 1.4;
+    margin: 1rem 2rem;
+    max-width: 550px;
+}
+
+h1 {
+    font-size: 1.125rem;
+    margin-top: 1.5rem;
+}
+
+.shortcopy {
+    line-height: 1.5;
+}
+
+img.shortcopy {
+    float: right;
+}
+
+ul.shortcopy {
+    line-height: 1.2;
+    padding-left: 1rem;
+    margin-top: 1.625rem;
+    margin-bottom: 2.25rem;
+}
+
+p.productcopy {
+    margin-bottom: 1.5rem;
+}
+
+.productcopy-sub {
+    font-size: 0.75rem;
+    margin-bottom: -0.5rem;
+}
+
+h2.productcopy-sub {
+    margin-bottom: -0.25rem;
+}
